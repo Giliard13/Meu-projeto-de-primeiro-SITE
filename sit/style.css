@@ -14,7 +14,8 @@ h2{
 p{
     color: #050505;
     font-family: Arial, Helvetica, sans-serif;
-   margin-left:38pc ;
+   margin-left: 90px ;
+   text-align: justify;
 }
 a{
     color: #120ee7;
