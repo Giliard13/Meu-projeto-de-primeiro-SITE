@@ -17,3 +17,8 @@ a{
     color: rgb(29, 136, 236);
     font-family: Arial, Helvetica, sans-serif;
 }
+div{
+    align-items: baseline;
+    top: 3%;
+
+}
